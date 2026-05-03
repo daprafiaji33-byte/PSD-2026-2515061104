@@ -1,4 +1,4 @@
-##Sistem pengurutan besar file dari terkecil hingga terbesar##
+**Sistem pengurutan besar file dari terkecil hingga terbesar**
 
 Sistem ini berfungsi untuk menyusun urutan file berdasarkan ukuran dari inputan user, sistem ini memungkinkan user untuk menentukan akan ada berapa file yang ingin dimasukkan, lalu user dapat memasukan ukuran dari setiap file yang ada, lalu sistem akan secara otomatis mengatuurutan file tersebut dari yang terkecil hingga yang terbesar.
 
@@ -63,10 +63,10 @@ Baris 47: Mengecek apakah file ini dijalankan sebagai program utama.
 
 Baris 48: Memanggil fungsi main() untuk mulai menjalankan seluruh alur program.
 
-##Output##
+**Output**
 
 <img width="863" height="201" alt="Screenshot 2026-05-03 125321" src="https://github.com/user-attachments/assets/b802d2a8-2b81-4529-bf42-8763c7619ef8" />
 
 Output program ini meiminta user untuk memasukan jumlah data yang aa, lalu sistem akan meminta user untuk menentukan besar ukuran dari setiap file yang diinputkan. Selanjutnya sistem akan melihatkan file dengan urutan sesuai dengan inputan user dan juga akan menampilkan urutan besar file dari terkecil hingga terbesar.
 
-##File Youtube##
+**Link Youtube**
