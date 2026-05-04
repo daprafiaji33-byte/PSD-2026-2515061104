@@ -70,3 +70,4 @@ Baris 48: Memanggil fungsi main() untuk mulai menjalankan seluruh alur program.
 Output program ini meiminta user untuk memasukan jumlah data yang aa, lalu sistem akan meminta user untuk menentukan besar ukuran dari setiap file yang diinputkan. Selanjutnya sistem akan melihatkan file dengan urutan sesuai dengan inputan user dan juga akan menampilkan urutan besar file dari terkecil hingga terbesar.
 
 **Link Youtube**
+https://youtu.be/6WGmiumjTPY?si=zv3MuRTgSNbld09x
