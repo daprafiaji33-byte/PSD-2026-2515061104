@@ -69,3 +69,4 @@ Baris 47-48: Menjalankan fungsi main() jika file ini adalah program utama yang d
 Output program ini menampilkan data yang ada, lalu memunta nama yang ingin dicar. Setelah user menginputkan nama maka sistem akan berjalan sesuai dengan logika yang ada. Terakhir sistem akan menampilkan hasil dari pencarian yang akan menampilkan nomer dari nama tersebut jika nama yang di cari ada di data, dan akan menampilkan "data tidak ditemukann" jika nama tersebut tidak ada di dalam data.
 
 # Link Youtube
+https://youtu.be/hQXf5v1Z4oU
