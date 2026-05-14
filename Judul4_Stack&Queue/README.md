@@ -31,8 +31,6 @@ Baris 32: Masukin nama pasien x ke posisi paling belakang tadi.
 
 Baris 33-36: Mencetak konfirmasi pasien masuk, lengkap sama estimasi waktu nunggu (5 menit per orang di depannya).
 
-Bagian 3: Melayani dan Mengintip (Dequeue & Peek)
-
 Baris 38: Fungsi dequeue buat manggil pasien paling depan buat dilayani.
 
 Baris 39-41: Cek kalau kosong, ya nggak ada yang bisa dipanggil.
