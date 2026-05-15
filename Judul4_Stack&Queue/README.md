@@ -75,3 +75,4 @@ Baris 103-104: Perintah buat mulai jalanin fungsi main saat file dibuka.
 Output ini menampilkan sebuah inputan kepada user untuk memilih fungsi apa yang ingin di gunakan, seperti menambah pasien, melayani pasien, melihat pasien paling depan, melihat seluruh pasien dan keluar dari program tersebut.
 
 # LINK YOUTUBE
+https://youtu.be/_tD3kY_q8mw
