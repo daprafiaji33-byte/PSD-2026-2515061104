@@ -29,13 +29,13 @@ Baris 30-31: Kalau sudah ada orang, posisi rear (belakang) bakal geser satu lang
 
 Baris 32: Masukin nama pasien x ke posisi paling belakang tadi.
 
-Baris 33-36: Mencetak konfirmasi pasien masuk, lengkap sama estimasi waktu nunggu (5 menit per orang di depannya).
+Baris 33-36: Mennampilkan konfirmasi pasien masuk, lengkap sama estimasi waktu nunggu (5 menit per orang di depannya).
 
 Baris 38: Fungsi dequeue buat manggil pasien paling depan buat dilayani.
 
 Baris 39-41: Cek kalau kosong, ya nggak ada yang bisa dipanggil.
 
-Baris 42: Mencetak perintah supaya pasien di urutan front menuju loket obat.
+Baris 42: Menampilkan perintah supaya pasien di urutan front menuju loket obat.
 
 Baris 43-45: Kalau ternyata itu adalah orang terakhir di antrean, posisinya direset lagi ke -1 (kosong total).
 
@@ -43,7 +43,7 @@ Baris 46-47: Kalau masih ada orang lain di belakangnya, posisi front (depan) ges
 
 Baris 49: Fungsi peek cuma buat "nengok" siapa sih orang yang paling depan sekarang.
 
-Baris 53: Mencetak nama pasien yang ada di urutan terdepan tanpa menghapusnya dari antrean.
+Baris 53: Menampilkan nama pasien yang ada di urutan terdepan tanpa menghapusnya dari antrean.
 
 Baris 55: Fungsi display buat ngeliat seluruh isi barisan dari depan ke belakang.
 
