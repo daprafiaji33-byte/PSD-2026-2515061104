@@ -206,6 +206,7 @@ Baris 128: Mengecek kondisi utama apakah file script Python ini sedang dieksekus
 Baris 129: Memanggil dan memproses fungsi main() untuk mengaktifkan seluruh rangkaian jalannya program aplikasi perpustakaan.
 
 # Output
+<img width="3840" height="2160" alt="53675" src="https://github.com/user-attachments/assets/4669e485-de38-4d7e-8129-00f4d062a202" />
 
 Output sistem ini akan menampilkan data yang sudah tersimpan dan juga sebuah pilihan berupa tambah, mencari, menghapus, menampilkan daftar buku serta mengakhiri program.
 
