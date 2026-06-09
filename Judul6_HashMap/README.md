@@ -211,4 +211,4 @@ Baris 129: Memanggil dan memproses fungsi main() untuk mengaktifkan seluruh rang
 Output sistem ini akan menampilkan data yang sudah tersimpan dan juga sebuah pilihan berupa tambah, mencari, menghapus, menampilkan daftar buku serta mengakhiri program.
 
 # Link Youtube
-https://youtu.be/Tt1hjcglvUQ
+https://youtu.be/SxwWMLr6P-o
