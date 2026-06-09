@@ -143,7 +143,7 @@ Baris 95: Mengecek kondisi apabila pengguna mengetikkan angka 1 untuk memilih me
 
 Baris 96: Memulai blok perintah try untuk mengamankan proses input penambahan data buku baru.
 
-Baris 97: Meminta pengguna memasukkan data kode buku baru (yang di sini variabelnya tertulis nama npm) melalui papan ketik.
+Baris 97: Meminta pengguna memasukkan data kode buku baru (yang di sini variabelnya tertulis nama dan kode buku) melalui papan ketik.
 
 Baris 98: Meminta pengguna memasukkan teks nama atau judul buku baru yang ingin disimpan ke dalam sistem.
 
@@ -210,3 +210,4 @@ Baris 129: Memanggil dan memproses fungsi main() untuk mengaktifkan seluruh rang
 Output sistem ini akan menampilkan data yang sudah tersimpan dan juga sebuah pilihan berupa tambah, mencari, menghapus, menampilkan daftar buku serta mengakhiri program.
 
 # Link Youtube
+https://youtu.be/Tt1hjcglvUQ
